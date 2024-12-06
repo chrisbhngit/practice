@@ -2,3 +2,7 @@ ceviche
 arros
 chanfainita
 beans
+superman
+batman
+flash
+rocky
