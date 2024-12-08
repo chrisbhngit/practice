@@ -2,6 +2,7 @@ ceviche
 arros
 chanfainita
 beans
+papas
 superman
 batman
 flash
